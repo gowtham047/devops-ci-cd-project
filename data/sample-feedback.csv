@@ -1,0 +1,22 @@
+name,email,feedback,rating,date
+Arun,arun@example.com,Very useful internship experience,5,2026-09-01
+Priya,priya@example.com,Learned Jenkins and CI/CD concepts,5,2026-09-02
+Rahul,rahul@example.com,Good practical sessions,4,2026-09-03
+Sneha,sneha@example.com,Docker concepts were helpful,5,2026-09-04
+Karthik,karthik@example.com,More Kubernetes practice would help,4,2026-09-05
+Divya,divya@example.com,Good learning experience,5,2026-09-06
+Vijay,vijay@example.com,Linux sessions were useful,4,2026-09-07
+Anitha,anitha@example.com,Enjoyed the DevOps projects,5,2026-09-08
+Suresh,suresh@example.com,CI/CD pipeline practice was good,5,2026-09-09
+Meena,meena@example.com,Terraform exercises were useful,4,2026-09-10
+Ravi,ravi@example.com,Ansible concepts were clear,5,2026-09-11
+Swetha,swetha@example.com,Security scanning was interesting,5,2026-09-12
+Manoj,manoj@example.com,Good introduction to DevSecOps,4,2026-09-13
+Pooja,pooja@example.com,Jenkins pipeline was easy to understand,5,2026-09-14
+Ajay,ajay@example.com,Docker deployment was useful,4,2026-09-15
+Keerthi,keerthi@example.com,Prometheus and Grafana were helpful,5,2026-09-16
+Naveen,naveen@example.com,More real-world examples would help,4,2026-09-17
+Lakshmi,lakshmi@example.com,Good overall experience,5,2026-09-18
+Deepak,deepak@example.com,Learned useful Linux commands,4,2026-09-19
+Asha,asha@example.com,Very good hands-on training,5,2026-09-20
+
