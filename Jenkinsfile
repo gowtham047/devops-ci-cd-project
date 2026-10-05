@@ -1,3 +1,4 @@
+cat > Jenkinsfile <<'EOF'
 pipeline {
     agent any
 
@@ -68,10 +69,12 @@ pipeline {
 
         stage('Verify') {
             steps {
-                sh '''
-                    sleep 5
-                    curl -f http://172.24.153.86:8083/student-feedback/health
-                '''
+                retry(3) {
+                    sh '''
+                        sleep 5
+                        curl -f http://172.24.153.86:8083/student-feedback/health
+                    '''
+                }
             }
         }
     }
@@ -86,4 +89,5 @@ pipeline {
         }
     }
 }
+EOF
 
